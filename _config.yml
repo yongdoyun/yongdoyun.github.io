@@ -95,8 +95,8 @@ analytics:
 author:
   name             : "Yongdo Yun"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "**Medical Physics**"
-  location         : "Somewhere"
+  bio              : "**Medical Physics** Graduate Student"
+  location         : "Seoul"
   email            : "yongdo.yoon@gmail.com"
   links:
     - label: "Email"
