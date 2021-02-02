@@ -1,7 +1,9 @@
 # main links
 main:
-  - title: "qqQuick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  #- title: "qqQuick-Start Guide"
+  #url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "MPBEL"
+    url: http://mpbel.yonsei.ac.kr
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -10,3 +12,4 @@ main:
   #   url: /collection-archive/
   #  - title: "Sitemap"
   #  url: /sitemap/
+
