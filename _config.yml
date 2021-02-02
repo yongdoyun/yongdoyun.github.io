@@ -97,7 +97,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "**Medical Physics**"
   location         : "Somewhere"
-  email            :
+  email            : "yongdo.yoon@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
