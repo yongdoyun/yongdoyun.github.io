@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Yongdo Yun"
-  avatar           : "/assets/images/avatar.jpg"
+  avatar           : #"/assets/images/avatar.jpg"
   bio              : "Medical Physics"
   location         : "Seoul"
   email            : "yongdo.yoon@gmail.com"
