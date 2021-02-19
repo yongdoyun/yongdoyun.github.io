@@ -27,4 +27,11 @@ However, virtually no emphasis has been placed on reporting the uncertainty, ref
 These deserve broader consideration.  
 Here we present a series of simple and practical methods for estimating MC error as well as determining the number of replications required to achieve a desired level of accuracy  
 
+## Error Propagation
+에러가 있는 애들끼리 사칙연산을 하게될때 에러들끼리의 연산은 어떻게 해야하는지  
+python package중에 error propagation을 알아서 계산해주는  **uncertainties** 라는 패키지가 있음.  
+[홈페이지](https://uncertainties-python-package.readthedocs.io/en/latest/)  
+```consol
+conda install -c conda-forge uncertainties
+```
 
