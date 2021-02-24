@@ -24,8 +24,8 @@ sv:Sc/MyScorer/Reprot = 3 "Sum" "Variance" "Standard_Deviation"
 
 TOPAS calculates the variance (and hence the standard deviation) associated with the distribution of the quantity of interest (dose, fluence, etc).  
 
-	- For the standard deviation of the mean value, divide the standard deviation from TOPAS by the square root of the total number of histories.  
-	- For the standard deviation of the sum, multiply the standard deviation from TOPAS by the square root of the total number of histories.  
+- For the standard deviation of the mean value, divide the standard deviation from TOPAS by the square root of the total number of histories.  
+- For the standard deviation of the sum, multiply the standard deviation from TOPAS by the square root of the total number of histories.  
 
 일단기본적인 TOPAS의 기능으로는 옵션을 넣어주면 계산해줌.  .  
 획득한 것을 어떻게 처리해야 error가 계산될지는 error propagation에 대한 공부 필요.    
