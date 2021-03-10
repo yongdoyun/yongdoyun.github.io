@@ -5,6 +5,17 @@ toc_sticky: true
 
 ---
 
+*Mar 10, 2021*
+## Reliability of the results
+
+Monte Carlo simulation이 매우 복잡한 지오메트리에서도 정확한 선량 계산이 가능하지만 uncertainties는 분명히 존재함.  
+
+The reliability of the results obtained using Monte Carlo simulation depends essentially on **the number of trials**, and most codes output **the standard error of the mean** as statistical uncertainties.  
+The results of Monte Carlo simulations intrinsically include systematic uncertainties associated with **unclear physical quantities**, such as total cross section and material composition.  
+
+**Therefore, estimation of not only the statistical but also the systematic uncertainties are required to confirm the reliability of results.**
+
+*Feb 18, 2021*
 ## Statistical Information in TOPAS
 
 디폴트설정에서 scorers는 모든히스토리 과정중 총 합을 정량적으로 계산해서 보여준다.  
@@ -50,3 +61,5 @@ python package중에 error propagation을 알아서 계산해주는  **uncertain
 conda install -c conda-forge uncertainties
 ```
 
+## References
+1. Hashimoto, Shinataro, and Tatsuhiko Sato. "Estimation method of systematic uncertainties in Monte Carlo particle transport simulation based on analysis of variance." *Journal of Nuclear Science and Technology* (2019)
