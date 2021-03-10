@@ -5,8 +5,8 @@ toc_sticky: true
 
 ---
 
-*Mar 10, 2021*
 ## Reliability of the results
+*Mar 10, 2021*
 
 Monte Carlo simulation이 매우 복잡한 지오메트리에서도 정확한 선량 계산이 가능하지만 uncertainties는 분명히 존재함.  
 
@@ -15,8 +15,8 @@ The results of Monte Carlo simulations intrinsically include systematic uncertai
 
 **Therefore, estimation of not only the statistical but also the systematic uncertainties are required to confirm the reliability of results.**
 
-*Feb 18, 2021*
 ## Statistical Information in TOPAS
+*Feb 18, 2021*
 
 디폴트설정에서 scorers는 모든히스토리 과정중 총 합을 정량적으로 계산해서 보여준다.  
 **다양한 설정이 기본적으로 존재**
